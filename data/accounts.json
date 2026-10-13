@@ -1,0 +1,106 @@
+[
+  {
+    "cardNumber": "1111222233334444",
+    "holderName": "Priya Sharma",
+    "pin": "1234",
+    "balance": 60000,
+    "isLocked": false,
+    "transactions": [
+      {
+        "id": "1700000000001",
+        "type": "DEPOSIT",
+        "amount": 10000,
+        "date": "2025-01-10T09:30:00.000Z",
+        "balanceAfter": 50000
+      },
+      {
+        "id": "1700000000002",
+        "type": "WITHDRAW",
+        "amount": 2000,
+        "date": "2025-01-12T14:15:00.000Z",
+        "balanceAfter": 48000
+      },
+      {
+        "id": "1700000000003",
+        "type": "DEPOSIT",
+        "amount": 2000,
+        "date": "2025-01-13T11:00:00.000Z",
+        "balanceAfter": 50000
+      },
+      {
+        "id": "1791806764247-356",
+        "type": "DEPOSIT",
+        "amount": 15000,
+        "date": "2026-10-12T12:06:04.247Z",
+        "balanceAfter": 65000
+      },
+      {
+        "id": "1791806775399-561",
+        "type": "WITHDRAW",
+        "amount": 5000,
+        "date": "2026-10-12T12:06:15.399Z",
+        "balanceAfter": 60000
+      }
+    ]
+  },
+  {
+    "cardNumber": "5555666677778888",
+    "holderName": "Arun Kumar",
+    "pin": "1010",
+    "balance": 60000,
+    "isLocked": false,
+    "transactions": [
+      {
+        "id": "1700000000004",
+        "type": "DEPOSIT",
+        "amount": 25000,
+        "date": "2025-01-05T10:00:00.000Z",
+        "balanceAfter": 25000
+      },
+      {
+        "id": "1791817627492-138",
+        "type": "DEPOSIT",
+        "amount": 45000,
+        "date": "2026-10-12T15:07:07.492Z",
+        "balanceAfter": 70000
+      },
+      {
+        "id": "1791817650821-675",
+        "type": "WITHDRAW",
+        "amount": 10000,
+        "date": "2026-10-12T15:07:30.821Z",
+        "balanceAfter": 60000
+      },
+      {
+        "id": "1791817721296-731",
+        "type": "PIN_CHANGE",
+        "amount": 0,
+        "date": "2026-10-12T15:08:41.296Z",
+        "balanceAfter": 60000
+      }
+    ]
+  },
+  {
+    "cardNumber": "9999000011112222",
+    "holderName": "Meena Raj",
+    "pin": "2580",
+    "balance": 30000,
+    "isLocked": false,
+    "transactions": [
+      {
+        "id": "1791859073378-374",
+        "type": "DEPOSIT",
+        "amount": 30000,
+        "date": "2026-10-13T02:37:53.378Z",
+        "balanceAfter": 31500
+      },
+      {
+        "id": "1791859090714-218",
+        "type": "WITHDRAW",
+        "amount": 1500,
+        "date": "2026-10-13T02:38:10.714Z",
+        "balanceAfter": 30000
+      }
+    ]
+  }
+]
